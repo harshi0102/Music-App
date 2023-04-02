@@ -1,2 +1,3 @@
-# Guess-The-Number
-Guess the Number
+# Music App
+Music Player App
+# Click here for online demo: 
